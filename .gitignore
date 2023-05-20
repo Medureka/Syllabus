@@ -160,4 +160,8 @@ tags
 # Coc configuration directory
 .vim
 
+README.md
+LICENSE
+
+
 # End of https://www.gitignore.io/api/vim,node,macos
